@@ -1,0 +1,5 @@
+{
+  "name": "Insta-Checker Console",
+  "description": "A console-themed application to check fake Instagram user details and generate a simulated login history using AI.",
+  "requestFramePermissions": []
+}
